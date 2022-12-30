@@ -159,6 +159,114 @@ In ICLR, 2022.
 [[paper](https://arxiv.org/abs/2106.02695)]
 [[code]()]
 
+[25] Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification.
+Renrui Zhang, Zhang Wei, Rongyao Fang, Peng Gao, Kunchang Li, Jifeng Dai, Yu Qiao, Hongsheng Li.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2207.09519)]
+[[code]()]
+
+[26] Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay.
+Huan Liu, Li Gu, Zhixiang Chi, Yang Wang, Yuanhao Yu, Jun Chen, Jin Tang.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2207.11213)]
+[[code]()]
+
+[27] Self-Supervision Can Be a Good Few-Shot Learner.
+Yuning Lu, Liangjian Wen, Jianzhuang Liu, Yajing Liu, Xinmei Tian.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2207.09176)]
+[[code]()]
+
+[28] tSF: Transformer-based Semantic Filter for Few-Shot Learning.
+Jinxiang Lai, Siqian Yang, Wenlong Liu, Yi Zeng, Zhongyi Huang, Wenlong Wu, Jun Liu, Bin-Bin Gao, Chengjie Wang.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2211.00868)]
+[[code]()]
+
+[29] Adversarial Feature Augmentation for Cross-domain Few-shot Classification.
+Yanxu Hu, Andy J. Ma.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2208.11021)]
+[[code]()]
+
+[30] Worst Case Matters for Few-Shot Recognition.
+Minghao Fu, Yun-Hao Cao, Jianxin Wu.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2203.06574)]
+[[code]()]
+
+[31] DNA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment.
+Ziyu Jiang, Tianlong Chen, Xuxi Chen, Yu Cheng, Luowei Zhou, Lu Yuan, Ahmed Awadallah, Zhangyang Wang.
+In ECCV, 2022.
+[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800229.pdf)]
+[[code]()]
+
+[32] Learning Instance and Task-Aware Dynamic Kernels for Few Shot Learning.
+Rongkai Ma, Pengfei Fang, Gil Avraham, Yan Zuo, Tianyu Zhu, Tom Drummond, Mehrtash Harandi.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2112.03494)]
+[[code]()]
+
+[33] Few-Shot Classification with Contrastive Learning.
+Zhanyuan Yang, Jinghua Wang, Yingying Zhu.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2209.08224)]
+[[code]()]
+
+[34] Coarse-To-Fine Incremental Few-Shot Learning.
+Xiang Xiang, Yuwen Tan, Qian Wan, Jing Ma.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2111.14806)]
+[[code]()]
+
+[35] Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations.
+Wentao Chen, Zhang Zhang, Wei Wang, Liang Wang, Zilei Wang, Tieniu Tan.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2207.07826)]
+[[code]()]
+
+[36] Improving Few-Shot Learning through Multi-task Representation Learning Theory.
+Quentin Bouniot, Ievgen Redko, Romaric Audigier, Angélique Loesch, Amaury Habrard.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2010.01992)]
+[[code]()]
+
+[37] Few-Shot Class-Incremental Learning from an Open-Set Perspective.
+Can Peng, Kun Zhao, Tianren Wang, Meng Li, Brian C. Lovell.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2208.00147)]
+[[code]()]
+
+[38] Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation.
+Min Zhang, Siteng Huang, Wenbin Li, Donglin Wang.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2207.06989)]
+[[code]()]
+
+[39] S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning.
+Jayateja Kalla, Soma Biswas.
+In ECCV, 2022.
+[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)]
+[[code]()]
+
+[40] Unsupervised Few-Shot Image Classification by Learning Features into Clustering Space.
+Shuo Li, Fang Liu, Zehua Hao, Kaibo Zhao, Licheng Jiao.
+In ECCV, 2022.
+[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910406.pdf)]
+[[code]()]
+
+[41] TransVLAD: Focusing on Locally Aggregated Descriptors for Few-Shot Learning.
+Haoquan Li, Laoming Zhang, Daoan Zhang, Lang Fu, Peng Yang, Jianguo Zhang.
+In ECCV, 2022.
+[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800509.pdf)]
+[[code]()]
+
+[42] Kernel Relative-prototype Spectral Filtering for Few-shot Learning.
+Tao Zhang, Wu Huang.
+In ECCV, 2022.
+[[paper](https://arxiv.org/abs/2207.11685)]
+[[code]()]
+
 
 
 ## YEAR 2021
@@ -561,7 +669,7 @@ In ICLR, 2021.
 
 
 
-### YEAR 2020
+## YEAR 2020
 
 [1] **Adaptive Subspaces for Few-Shot Learning.**
 Christian Simon, Piotr Koniusz, Richard Nock, and Mehrtash Harandi.
@@ -823,7 +931,7 @@ In ICLR, 2020.
 
 
 
-### YEAR 2019
+## YEAR 2019
 
 [1] **Finding Task-Relevant Features for Few-Shot Learning by Category Traversal.**
 Hongyang Li, David Eigen, Samuel Dodge, Matthew Zeiler, and Xiaogang Wang.
@@ -1037,7 +1145,7 @@ In ICLR, 2019.
 
 
 
-### YEAR 2018
+## YEAR 2018
 
 [1] **Learning to Compare: Relation Network for Few-Shot Learning.**
 Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, and Timothy M. Hospedales.
@@ -1125,7 +1233,7 @@ In ICLR, 2018.
 
 
 
-### YEAR 2017
+## YEAR 2017
 
 [1] **Few-Shot Object Recognition from Machine-Labeled Web Images.**
 Zhongwen Xu, Linchao Zhu, and Yi Yang.
@@ -1165,7 +1273,7 @@ In ICLR, 2017.
 
 
 
-### YEAR 2016
+## YEAR 2016
 
 [1] **Learning feed-forward one-shot learners.**
 Luca Bertinetto, João F. Henriques, Jack Valmadre, Philip H. S. Torr, and Andrea Vedaldi.
@@ -1181,10 +1289,12 @@ In NIPS, 2016.
 
 
 
-### YEAR 2015
+## YEAR 2015
 
 [1] **One Shot Learning via Compositions of Meaningful Patches.**
 Alex Wong, and Alan L. Yuille.
 In ICCV, 2015.
 [[paper](http://openaccess.thecvf.com/content_iccv_2015/html/Wong_One_Shot_Learning_ICCV_2015_paper.html)]
 [[code]()]
+
+
