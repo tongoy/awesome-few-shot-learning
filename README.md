@@ -13,6 +13,82 @@ In conference/journal, year.
 
 
 
+## YEAR 2023
+
+[1] **Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning.**
+Huiwon Jang, Hankook Lee, Jinwoo Shin.
+In ICLR, 2023.
+[[paper](https://openreview.net/pdf?id=TdTGGj7fYYJ)]
+[[code]()]
+
+[2] **Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning.**
+Do-Yeon Kim, Dong-Jun Han, Jun Seo, Jaekyun Moon.
+In ICLR, 2023.
+[[paper](https://openreview.net/pdf?id=kPLzOfPfA2l)]
+[[code]()]
+
+[3] **Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning.**
+Yibo Yang, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao.
+In ICLR, 2023.
+[[paper](https://arxiv.org/abs/2302.03004)]
+[[code]()]
+
+[4] **Progressive Mix-Up for Few-Shot Supervised Multi-Source Domain Transfer.**
+Ronghang Zhu, Ronghang Zhu, Xiang Yu, Sheng Li.
+In ICLR, 2023.
+[[paper](https://openreview.net/pdf?id=H7M_5K5qKJV)]
+[[code]()]
+
+[5] **Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning.**
+Ivona Najdenkoska, Xiantong Zhen, Marcel Worring.
+In ICLR, 2023.
+[[paper](https://openreview.net/pdf?id=3oWo92cQyxL)]
+[[code]()]
+
+[6] **Contrastive Meta-Learning for Partially Observable Few-Shot Learning.**
+Adam Jelley, Amos Storkey, Antreas Antoniou, Sam Devlin.
+In ICLR, 2023.
+[[paper](https://arxiv.org/abs/2301.13136)]
+[[code]()]
+
+[7] **Revisit Finetuning strategy for Few-Shot Learning to Strengthen the Equivariance of Emdeddings.**
+Heng Wang, Tan Yue, Xiang Ye, Zihang He, Bohan Li, Yong Li.
+In ICLR, 2023.
+[[paper](https://openreview.net/pdf?id=tXc-riXhmx)]
+[[code]()]
+
+[8] **On the Soft-Subnetwork for Few-shot Class Incremental Learning.**
+Haeyong Kang, Jaehong Yoon, Sultan Rizky Hikmawan Madjid, Sung Ju Hwang, Chang D. Yoo.
+In ICLR, 2023.
+[[paper](https://arxiv.org/abs/2209.07529)]
+[[code]()]
+
+[9] **Hard-Meta-Dataset++: Towards Understanding Few-Shot Performance on Difficult Tasks.**
+Samyadeep Basu, Megan Stanley, John F Bronskill, Soheil Feizi, Daniela Massiceti.
+In ICLR, 2023.
+[[paper](https://openreview.net/pdf?id=wq0luyH3m4)]
+[[code]()]
+
+[10] **Context-enriched molecule representations improve few-shot drug discovery.**
+Johannes Schimunek, Philipp Seidl, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer.
+In ICLR, 2023.
+[[paper](https://openreview.net/pdf?id=XrMWUuEevr)]
+[[code]()]
+
+[11] **FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification.**
+Aliaksandra Shysheya, John Bronskill, Massimiliano Patacchiola, Sebastian Nowozin, Richard E Turner.
+In ICLR, 2023.
+[[paper](https://arxiv.org/abs/2206.08671)]
+[[code]()]
+
+[12] **Cross-Level Distillation and Feature Denoising for Cross-Domain Few-Shot Classification.**
+Hao ZHENG, Runqi Wang, Jianzhuang Liu, Asako Kanezaki.
+In ICLR, 2023.
+[[paper](https://openreview.net/pdf?id=Kn-HA8DFik)]
+[[code]()]
+
+
+
 ## YEAR 2022
 
 [1] **Learning to Affiliate: Mutual Centralized Learning for Few-shot Classification.**
@@ -159,112 +235,310 @@ In ICLR, 2022.
 [[paper](https://arxiv.org/abs/2106.02695)]
 [[code]()]
 
-[25] **Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification.**
+[25] **On the Importance of Firth Bias Reduction in Few-Shot Classification.**
+Saba Ghaffari, Ehsan Saleh, David Forsyth, Yu-xiong Wang.
+In ICLR, 2022.
+[[paper](https://arxiv.org/abs/2110.02529)]
+[[code]()]
+
+[26] **ConFeSS: A Framework for Single Source Cross-Domain Few-Shot Learning.**
+Debasmit Das, Sungrack Yun, Fatih Porikli.
+In ICLR, 2022.
+[[paper](https://openreview.net/pdf?id=zRJu6mU2BaE)]
+[[code]()]
+
+[27] **Hierarchical Variational Memory for Few-shot Learning Across Domains.**
+Yingjun Du, Xiantong Zhen, Ling Shao, Cees G. M. Snoek.
+In ICLR, 2022.
+[[paper](https://arxiv.org/abs/2112.08181)]
+[[code]()]
+
+[28] **Subspace Regularizers for Few-Shot Class Incremental Learning.**
+Afra Feyza Akyürek, Ekin Akyürek, Derry Tanti Wijaya, Jacob Andreas.
+In ICLR, 2022.
+[[paper](https://arxiv.org/abs/2110.07059)]
+[[code]()]
+
+[29] **How to Train Your MAML to Excel in Few-Shot Classification.**
+Han-Jia Ye, Wei-Lun Chao.
+In ICLR, 2022.
+[[paper](https://arxiv.org/abs/2106.16245)]
+[[code]()]
+
+[30] **Task Affinity with Maximum Bipartite Matching in Few-Shot Learning.**
+Cat P. Le, Juncheng Dong, Mohammadreza Soltani, Vahid Tarokh.
+In ICLR, 2022.
+[[paper](https://arxiv.org/abs/2110.02399)]
+[[code]()]
+
+[31] **Temporal Alignment Prediction for Supervised Representation Learning and Few-Shot Sequence Classification.**
+Bing Su, Ji-Rong Wen.
+In ICLR, 2022.
+[[paper](https://openreview.net/pdf?id=p3DKPQ7uaAi)]
+[[code]()]
+
+[32] **Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners.**
+Ningyu Zhang, Luoqiu Li, Xiang Chen, Shumin Deng, Zhen Bi, Chuanqi Tan, Fei Huang, Huajun Chen.
+In ICLR, 2022.
+[[paper](https://arxiv.org/abs/2108.13161)]
+[[code]()]
+
+[33] **Few-shot Learning via Dirichlet Tessellation Ensemble.**
+Chunwei Ma, Ziyun Huang, Mingchen Gao, Jinhui Xu.
+In ICLR, 2022.
+[[paper](https://openreview.net/pdf?id=6kCiVaoQdx9)]
+[[code]()]
+
+[34] **Switch to Generalize: Domain-Switch Learning for Cross-Domain Few-Shot Classification.**
+Zhengdong Hu, Yifan Sun, Yi Yang.
+In ICLR, 2022.
+[[paper](https://openreview.net/pdf?id=H-iABMvzIc)]
+[[code]()]
+
+[35] **Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification.**
 Renrui Zhang, Zhang Wei, Rongyao Fang, Peng Gao, Kunchang Li, Jifeng Dai, Yu Qiao, Hongsheng Li.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2207.09519)]
 [[code]()]
 
-[26] **Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay.**
+[36] **Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay.**
 Huan Liu, Li Gu, Zhixiang Chi, Yang Wang, Yuanhao Yu, Jun Chen, Jin Tang.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2207.11213)]
 [[code]()]
 
-[27] **Self-Supervision Can Be a Good Few-Shot Learner.**
+[37] **Self-Supervision Can Be a Good Few-Shot Learner.**
 Yuning Lu, Liangjian Wen, Jianzhuang Liu, Yajing Liu, Xinmei Tian.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2207.09176)]
 [[code]()]
 
-[28] **tSF: Transformer-based Semantic Filter for Few-Shot Learning.**
+[38] **tSF: Transformer-based Semantic Filter for Few-Shot Learning.**
 Jinxiang Lai, Siqian Yang, Wenlong Liu, Yi Zeng, Zhongyi Huang, Wenlong Wu, Jun Liu, Bin-Bin Gao, Chengjie Wang.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2211.00868)]
 [[code]()]
 
-[29] **Adversarial Feature Augmentation for Cross-domain Few-shot Classification.**
+[39] **Adversarial Feature Augmentation for Cross-domain Few-shot Classification.**
 Yanxu Hu, Andy J. Ma.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2208.11021)]
 [[code]()]
 
-[30] **Worst Case Matters for Few-Shot Recognition.**
+[40] **Worst Case Matters for Few-Shot Recognition.**
 Minghao Fu, Yun-Hao Cao, Jianxin Wu.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2203.06574)]
 [[code]()]
 
-[31] **DNA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment.**
+[41] **DNA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment.**
 Ziyu Jiang, Tianlong Chen, Xuxi Chen, Yu Cheng, Luowei Zhou, Lu Yuan, Ahmed Awadallah, Zhangyang Wang.
 In ECCV, 2022.
 [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800229.pdf)]
 [[code]()]
 
-[32] **Learning Instance and Task-Aware Dynamic Kernels for Few Shot Learning.**
+[42] **Learning Instance and Task-Aware Dynamic Kernels for Few Shot Learning.**
 Rongkai Ma, Pengfei Fang, Gil Avraham, Yan Zuo, Tianyu Zhu, Tom Drummond, Mehrtash Harandi.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2112.03494)]
 [[code]()]
 
-[33] **Few-Shot Classification with Contrastive Learning.**
+[43] **Few-Shot Classification with Contrastive Learning.**
 Zhanyuan Yang, Jinghua Wang, Yingying Zhu.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2209.08224)]
 [[code]()]
 
-[34] **Coarse-To-Fine Incremental Few-Shot Learning.**
+[44] **Coarse-To-Fine Incremental Few-Shot Learning.**
 Xiang Xiang, Yuwen Tan, Qian Wan, Jing Ma.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2111.14806)]
 [[code]()]
 
-[35] **Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations.**
+[45] **Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations.**
 Wentao Chen, Zhang Zhang, Wei Wang, Liang Wang, Zilei Wang, Tieniu Tan.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2207.07826)]
 [[code]()]
 
-[36] **Improving Few-Shot Learning through Multi-task Representation Learning Theory.**
+[46] **Improving Few-Shot Learning through Multi-task Representation Learning Theory.**
 Quentin Bouniot, Ievgen Redko, Romaric Audigier, Angélique Loesch, Amaury Habrard.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2010.01992)]
 [[code]()]
 
-[37] **Few-Shot Class-Incremental Learning from an Open-Set Perspective.**
+[47] **Few-Shot Class-Incremental Learning from an Open-Set Perspective.**
 Can Peng, Kun Zhao, Tianren Wang, Meng Li, Brian C. Lovell.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2208.00147)]
 [[code]()]
 
-[38] **Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation.**
+[48] **Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation.**
 Min Zhang, Siteng Huang, Wenbin Li, Donglin Wang.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2207.06989)]
 [[code]()]
 
-[39] **S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning.**
+[49] **S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning.**
 Jayateja Kalla, Soma Biswas.
 In ECCV, 2022.
 [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)]
 [[code]()]
 
-[40] **Unsupervised Few-Shot Image Classification by Learning Features into Clustering Space.**
+[50] **Unsupervised Few-Shot Image Classification by Learning Features into Clustering Space.**
 Shuo Li, Fang Liu, Zehua Hao, Kaibo Zhao, Licheng Jiao.
 In ECCV, 2022.
 [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910406.pdf)]
 [[code]()]
 
-[41] **TransVLAD: Focusing on Locally Aggregated Descriptors for Few-Shot Learning.**
+[51] **TransVLAD: Focusing on Locally Aggregated Descriptors for Few-Shot Learning.**
 Haoquan Li, Laoming Zhang, Daoan Zhang, Lang Fu, Peng Yang, Jianguo Zhang.
 In ECCV, 2022.
 [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800509.pdf)]
 [[code]()]
 
-[42] **Kernel Relative-prototype Spectral Filtering for Few-shot Learning.**
+[52] **Kernel Relative-prototype Spectral Filtering for Few-shot Learning.**
 Tao Zhang, Wu Huang.
 In ECCV, 2022.
 [[paper](https://arxiv.org/abs/2207.11685)]
+[[code]()]
+
+[53] **Towards Practical Few-Shot Query Sets: Transductive Minimum Description Length Inference.**
+Ségolène Tiffany Martin, Malik Boudiaf, Emilie Chouzenoux, Jean-Christophe Pesquet, Ismail Ben Ayed.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2210.14545)]
+[[code]()]
+
+[54] **Learning from Few Samples: Transformation-Invariant SVMs with Composition and Locality at Multiple Scales.**
+Tao Liu, P. R. Kumar, Ruida Zhou, Xi Liu.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2109.12784)]
+[[code]()]
+
+[55] **Meta-ticket: Finding optimal subnetworks for few-shot learning within randomly initialized neural networks.**
+Daiki Chijiwa, Shin'ya Yamaguchi, Atsutoshi Kumagai, Yasutoshi Ida.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2205.15619)]
+[[code]()]
+
+[56] **FeLMi : Few shot Learning with hard Mixup.**
+Aniket Roy, Anshul Shah, Ketul Shah, Prithviraj Dhar, Anoop Cherian, Rama Chellappa.
+In NeurIPS, 2022.
+[[paper](https://openreview.net/pdf?id=xpdaDM_B4D)]
+[[code]()]
+
+[57] **Smoothed Embeddings for Certified Few-Shot Learning.**
+Mikhail Pautov, Olesya Kuznetsova, Nurislam Tursynbek, Aleksandr Petiushko, Ivan Oseledets.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2202.01186)]
+[[code]()]
+
+[58] **Understanding Cross-Domain Few-Shot Learning Based on Domain Similarity and Few-Shot Difficulty.**
+Jaehoon Oh, Sungnyun Kim, Namgyu Ho, Jin-Hwa Kim, Hwanjun Song, Se-Young Yun.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2202.01339)]
+[[code]()]
+
+[59] **Few-shot Relational Reasoning via Connection Subgraph Pretraining.**
+Qian Huang, Hongyu Ren, Jure Leskovec.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2210.06722)]
+[[code]()]
+
+[60] **Graph Few-shot Learning with Task-specific Structures.**
+Song Wang, Chen Chen, Jundong Li.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2210.12130)]
+[[code]()]
+
+[61] **Few-shot Learning for Feature Selection with Hilbert-Schmidt Independence Criterion.**
+Atsutoshi Kumagai, Tomoharu Iwata, Yasutoshi Ida, Yasuhiro Fujiwara.
+In NeurIPS, 2022.
+[[paper](https://openreview.net/pdf?id=eJM0aA5Qhhk)]
+[[code]()]
+
+[62] **Few-Shot Non-Parametric Learning with Deep Latent Variable Model.**
+Zhiying Jiang, Yiqin Dai, Ji Xin, Ming Li, Jimmy Lin.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2206.11573)]
+[[code]()]
+
+[63] **Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs.**
+Ruijie Wang, Zheng Li, Dachun Sun, Shengzhong Liu, Jinning Li, Bing Yin, Tarek Abdelzaher.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2210.08654)]
+[[code]()]
+
+[64] **Adaptive Distribution Calibration for Few-Shot Learning with Hierarchical Optimal Transport.**
+Dandan Guo, Long Tian, He Zhao, Mingyuan Zhou, Hongyuan Zha.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2210.04144)]
+[[code]()]
+
+[65] **Flamingo: a Visual Language Model for Few-Shot Learning.**
+Jean-Baptiste Alayrac, Jeff Donahue, Pauline Luc, Antoine Miech, Iain Barr, Yana Hasson, Karel Lenc, Arthur Mensch, Katie Millican, Malcolm Reynolds, Roman Ring, Eliza Rutherford, Serkan Cabi, Tengda Han, Zhitao Gong, Sina Samangooei, Marianne Monteiro, Jacob Menick, Sebastian Borgeaud, Andrew Brock, Aida Nematzadeh, Sahand Sharifzadeh, Mikolaj Binkowski, Ricardo Barreira, Oriol Vinyals, Andrew Zisserman, Karen Simonyan.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2204.14198)]
+[[code]()]
+
+[66] **Alleviating the Sample Selection Bias in Few-shot Learning by Removing Projection to the Centroid.**
+Jing Xu, Xu Luo, Xinglin Pan, Wenjie Pei, Yanan Li, Zenglin Xu.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2210.16834)]
+[[code]()]
+
+[67] **Improving Task-Specific Generalization in Few-Shot Learning via Adaptive Vicinal Risk Minimization.**
+Long-Kai Huang, Ying Wei.
+In NeurIPS, 2022.
+[[paper](https://openreview.net/pdf?id=fHUBa3gQno)]
+[[code]()]
+
+[68] **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning.**
+Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2205.05638)]
+[[code]()]
+
+[69] **Contextual Squeeze-and-Excitation for Efficient Few-Shot Image Classification.**
+Massimiliano Patacchiola, John Bronskill, Aliaksandra Shysheya, Katja Hofmann, Sebastian Nowozin, Richard E. Turner.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2206.09843)]
+[[code]()]
+
+[70] **Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation.**
+Yixiong Zou, Shanghang Zhang, Yuhua Li, Ruixuan Li.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2210.04524)]
+[[code]()]
+
+[71] **Set-based Meta-Interpolation for Few-Task Meta-Learning.**
+Seanie Lee, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2205.09990)]
+[[code]()]
+
+[72] **A Closer Look at Prototype Classifier for Few-shot Image Classification.**
+Mingcheng Hou, Issei Sato.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2110.05076)]
+[[code]()]
+
+[73] **An Embarrassingly Simple Approach to Semi-Supervised Few-Shot Learning.**
+Xiu-Shen Wei, He-Yang Xu, Faen Zhang, Yuxin Peng, Wei Zhou.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2209.13777)]
+[[code]()]
+
+[74] **Rethinking Generalization in Few-Shot Classification.**
+Markus Hiller, Rongkai Ma, Mehrtash Harandi, Tom Drummond.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2206.07267)]
+[[code]()]
+
+[75] **On Enforcing Better Conditioned Meta-Learning for Rapid Few-Shot Adaptation.**
+Markus Hiller, Mehrtash Harandi, Tom Drummond.
+In NeurIPS, 2022.
+[[paper](https://arxiv.org/abs/2206.07260)]
 [[code]()]
 
 
