@@ -15,6 +15,120 @@ In conference/journal, year.
 
 ## YEAR 2023
 
+[1] **Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners.**
+Renrui Zhang, Xiangfei Hu, Bohao Li, Siyuan Huang, Hanqiu Deng, Hongsheng Li, Yu Qiao, Peng Gao.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2303.02151)]
+[[code]()]
+
+[2] **Revisiting Prototypical Network for Cross Domain Few-Shot Learning.**
+Fei Zhou, Peng Wang, Lei Zhang, Wei Wei, Yanning Zhang.
+In CVPR, 2023.
+[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Revisiting_Prototypical_Network_for_Cross_Domain_Few-Shot_Learning_CVPR_2023_paper.pdf)]
+[[code]()]
+
+[3] **Glocal Energy-based Learning for Few-Shot Open-Set Recognition.**
+Haoyu Wang, Guansong Pang, Peng Wang, Lei Zhang, Wei Wei, Yanning Zhang.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2304.11855)]
+[[code]()]
+
+[4] **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models.**
+Zhiqiu Lin, Samuel Yu, Zhiyi Kuang, Deepak Pathak, Deva Ramanan.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2301.06267)]
+[[code]()]
+
+[5] **Semantic Prompt for Few-Shot Image Recognition.**
+Wentao Chen, Chenyang Si, Zhang Zhang, Liang Wang, Zilei Wang, Tieniu Tan.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2303.14123)]
+[[code]()]
+
+[6] **Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement.**
+Hao Zhu, Piotr Koniusz.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2304.11598)]
+[[code]()]
+
+[7] **GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-Shot Class Incremental Task.**
+Huiping Zhuang, Zhenyu Weng, Run He, Zhiping Lin, Ziqian Zeng.
+In CVPR, 2023.
+[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf)]
+[[code]()]
+
+[8] **Few-Shot Class-Incremental Learning via Class-Aware Bilateral Distillation.**
+Linglan Zhao, Jing Lu, Yunlu Xu, Zhanzhan Cheng, Dashan Guo, Yi Niu, Xiangzhong Fang.
+In CVPR, 2023.
+[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Few-Shot_Class-Incremental_Learning_via_Class-Aware_Bilateral_Distillation_CVPR_2023_paper.pdf)]
+[[code]()]
+
+[9] **Open-Set Likelihood Maximization for Few-Shot Learning.**
+Malik Boudiaf, Etienne Bennequin, Myriam Tami, Antoine Toubhans, Pablo Piantanida, Céline Hudelot, Ismail Ben Ayed.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2301.08390)]
+[[code]()]
+
+[10] **Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot Classification & Segmentation.**
+Dahyun Kang, Piotr Koniusz, Minsu Cho, Naila Murray.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2307.03407)]
+[[code]()]
+
+[11] **Hubs and Hyperspheres: Reducing Hubness and Improving Transductive Few-shot Learning with Hyperspherical Embeddings.**
+Daniel J. Trosten, Rwiddhi Chakraborty, Sigurd Løkse, Kristoffer Knutsen Wickstrøm, Robert Jenssen, Michael C. Kampffmeyer.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2303.09352)]
+[[code]()]
+
+[12] **Supervised Masked Knowledge Distillation for Few-Shot Transformers.**
+Han Lin, Guangxing Han, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2303.15466)]
+[[code]()]
+
+[13] **Bi-Level Meta-Learning for Few-Shot Domain Generalization.**
+Xiaorong Qin, Xinhang Song, Shuqiang Jiang.
+In CVPR, 2023.
+[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Bi-Level_Meta-Learning_for_Few-Shot_Domain_Generalization_CVPR_2023_paper.pdf)]
+[[code]()]
+
+[14] **ProD: Prompting-To-Disentangle Domain Knowledge for Cross-Domain Few-Shot Image Classification.**
+Tianyi Ma, Yifan Sun, Zongxin Yang, Yi Yang.
+In CVPR, 2023.
+[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_ProD_Prompting-To-Disentangle_Domain_Knowledge_for_Cross-Domain_Few-Shot_Image_Classification_CVPR_2023_paper.pdf)]
+[[code]()]
+
+[15] **Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning.**
+Zeyin Song, Yifan Zhao, Yujun Shi, Peixi Peng, Li Yuan, Yonghong Tian.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2304.00426)]
+[[code]()]
+
+[16] **Boosting Transductive Few-Shot Fine-Tuning With Margin-Based Uncertainty Weighting and Probability Regularization.**
+Ran Tao, Hao Chen, Marios Savvides.
+In CVPR, 2023.
+[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tao_Boosting_Transductive_Few-Shot_Fine-Tuning_With_Margin-Based_Uncertainty_Weighting_and_Probability_CVPR_2023_paper.pdf)]
+[[code]()]
+
+[17] **StyleAdv: Meta Style Adversarial Training for Cross-Domain Few-Shot Learning.**
+Yuqian Fu, Yu Xie, Yanwei Fu, Yu-Gang Jiang.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2302.09309)]
+[[code]()]
+
+[18] **WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation.**
+Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, Onkar Dabeer.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2303.14814)]
+[[code]()]
+
+[19] **Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment.**
+Runqi Wang, Hao Zheng, Xiaoyue Duan, Jianzhuang Liu, Yuning Lu, Tian Wang, Songcen Xu, Baochang Zhang.
+In CVPR, 2023.
+[[paper](https://arxiv.org/abs/2305.11439)]
+[[code]()]
+
 [1] **Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning.**
 Huiwon Jang, Hankook Lee, Jinwoo Shin.
 In ICLR, 2023.
