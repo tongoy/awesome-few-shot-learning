@@ -129,73 +129,121 @@ In CVPR, 2023.
 [[paper](https://arxiv.org/abs/2305.11439)]
 [[code]()]
 
-[1] **Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning.**
+[20] **Domain Adaptive Few-Shot Open-Set Learning.**
+Debabrata Pal, Deeptej More, Sai Bhargav, Dipesh Tamboli, Vaneet Aggarwal, Biplab Banerjee.
+In ICCV, 2023.
+[[paper](https://arxiv.org/abs/2309.12814)]
+[[code]()]
+
+[21] **StyleDomain: Efficient and Lightweight Parameterizations of StyleGAN for One-shot and Few-shot Domain Adaptation.**
+Aibek Alanov, Vadim Titov, Maksim Nakhodnov, Dmitry Vetrov.
+In ICCV, 2023.
+[[paper](https://arxiv.org/abs/2212.10229)]
+[[code]()]
+
+[22] **Prototypes-oriented Transductive Few-shot Learning with Conditional Transport.**
+Long Tian, Jingyi Feng, Wenchao Chen, Xiaoqiang Chai, Liming Wang, Xiyang Liu, Bo Chen.
+In ICCV, 2023.
+[[paper](https://arxiv.org/abs/2308.03047)]
+[[code]()]
+
+[23] **Few-shot Continual Infomax Learning.**
+Ziqi Gu, Chunyan Xu, Jian Yang, Zhen Cui.
+In ICCV, 2023.
+[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gu_Few-shot_Continual_Infomax_Learning_ICCV_2023_paper.html)]
+[[code]()]
+
+[24] **Task-aware Adaptive Learning for Cross-domain Few-shot Learning.**
+Yurong Guo, Ruoyi Du, Yuan Dong, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma.
+In ICCV, 2023.
+[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Task-aware_Adaptive_Learning_for_Cross-domain_Few-shot_Learning_ICCV_2023_paper.html)]
+[[code]()]
+
+[25] **DETA: Denoised Task Adaptation for Few-Shot Learning.**
+Ji Zhang, Lianli Gao, Xu Luo, Hengtao Shen, Jingkuan Song.
+In ICCV, 2023.
+[[paper](https://arxiv.org/abs/2303.06315)]
+[[code]()]
+
+[26] **Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification.**
+Fusheng Hao, Fengxiang He, Liu Liu, Fuxiang Wu, Dacheng Tao, Jun Cheng.
+In ICCV, 2023.
+[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.html)]
+[[code]()]
+
+[27] **Frequency Guidance Matters in Few-Shot Learning.**
+Hao Cheng, Siyuan Yang, Joey Tianyi Zhou, Lanqing Guo, Bihan Wen.
+In ICCV, 2023.
+[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Cheng_Frequency_Guidance_Matters_in_Few-Shot_Learning_ICCV_2023_paper.html)]
+[[code]()]
+
+[28] **Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning.**
 Huiwon Jang, Hankook Lee, Jinwoo Shin.
 In ICLR, 2023.
 [[paper](https://openreview.net/pdf?id=TdTGGj7fYYJ)]
 [[code]()]
 
-[2] **Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning.**
+[29] **Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning.**
 Do-Yeon Kim, Dong-Jun Han, Jun Seo, Jaekyun Moon.
 In ICLR, 2023.
 [[paper](https://openreview.net/pdf?id=kPLzOfPfA2l)]
 [[code]()]
 
-[3] **Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning.**
+[30] **Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning.**
 Yibo Yang, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao.
 In ICLR, 2023.
 [[paper](https://arxiv.org/abs/2302.03004)]
 [[code]()]
 
-[4] **Progressive Mix-Up for Few-Shot Supervised Multi-Source Domain Transfer.**
+[31] **Progressive Mix-Up for Few-Shot Supervised Multi-Source Domain Transfer.**
 Ronghang Zhu, Ronghang Zhu, Xiang Yu, Sheng Li.
 In ICLR, 2023.
 [[paper](https://openreview.net/pdf?id=H7M_5K5qKJV)]
 [[code]()]
 
-[5] **Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning.**
+[32] **Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning.**
 Ivona Najdenkoska, Xiantong Zhen, Marcel Worring.
 In ICLR, 2023.
 [[paper](https://openreview.net/pdf?id=3oWo92cQyxL)]
 [[code]()]
 
-[6] **Contrastive Meta-Learning for Partially Observable Few-Shot Learning.**
+[33] **Contrastive Meta-Learning for Partially Observable Few-Shot Learning.**
 Adam Jelley, Amos Storkey, Antreas Antoniou, Sam Devlin.
 In ICLR, 2023.
 [[paper](https://arxiv.org/abs/2301.13136)]
 [[code]()]
 
-[7] **Revisit Finetuning strategy for Few-Shot Learning to Strengthen the Equivariance of Emdeddings.**
+[34] **Revisit Finetuning strategy for Few-Shot Learning to Strengthen the Equivariance of Emdeddings.**
 Heng Wang, Tan Yue, Xiang Ye, Zihang He, Bohan Li, Yong Li.
 In ICLR, 2023.
 [[paper](https://openreview.net/pdf?id=tXc-riXhmx)]
 [[code]()]
 
-[8] **On the Soft-Subnetwork for Few-shot Class Incremental Learning.**
+[35] **On the Soft-Subnetwork for Few-shot Class Incremental Learning.**
 Haeyong Kang, Jaehong Yoon, Sultan Rizky Hikmawan Madjid, Sung Ju Hwang, Chang D. Yoo.
 In ICLR, 2023.
 [[paper](https://arxiv.org/abs/2209.07529)]
 [[code]()]
 
-[9] **Hard-Meta-Dataset++: Towards Understanding Few-Shot Performance on Difficult Tasks.**
+[36] **Hard-Meta-Dataset++: Towards Understanding Few-Shot Performance on Difficult Tasks.**
 Samyadeep Basu, Megan Stanley, John F Bronskill, Soheil Feizi, Daniela Massiceti.
 In ICLR, 2023.
 [[paper](https://openreview.net/pdf?id=wq0luyH3m4)]
 [[code]()]
 
-[10] **Context-enriched molecule representations improve few-shot drug discovery.**
+[37] **Context-enriched molecule representations improve few-shot drug discovery.**
 Johannes Schimunek, Philipp Seidl, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer.
 In ICLR, 2023.
 [[paper](https://openreview.net/pdf?id=XrMWUuEevr)]
 [[code]()]
 
-[11] **FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification.**
+[38] **FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification.**
 Aliaksandra Shysheya, John Bronskill, Massimiliano Patacchiola, Sebastian Nowozin, Richard E Turner.
 In ICLR, 2023.
 [[paper](https://arxiv.org/abs/2206.08671)]
 [[code]()]
 
-[12] **Cross-Level Distillation and Feature Denoising for Cross-Domain Few-Shot Classification.**
+[39] **Cross-Level Distillation and Feature Denoising for Cross-Domain Few-Shot Classification.**
 Hao ZHENG, Runqi Wang, Jianzhuang Liu, Asako Kanezaki.
 In ICLR, 2023.
 [[paper](https://openreview.net/pdf?id=Kn-HA8DFik)]
