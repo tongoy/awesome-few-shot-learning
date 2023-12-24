@@ -2,6 +2,8 @@
 
 
 
+## Standard Few-shot Learning
+
 ### *mini*ImageNet
 The [*mini*ImageNet]() dataset is a subset of ImageNet consisting of 100 classes with 600 images per class.
 The standard splits include 64 classes for training, 16 classes for validation, and 20 classes for test.
@@ -47,45 +49,12 @@ The standard splits include 64 classes for training, 16 classes for validation, 
 
 
 
-### CUB-200-2011
+## Cross-domain Few-shot Learning
 
-[[paper](https://authors.library.caltech.edu/records/cvm3y-5hh21)]
-[[code](https://www.vision.caltech.edu/datasets/cub_200_2011/)]
-[[splits](https://github.com/hytseng0509/CrossDomainFewShot/blob/master/filelists/cub/write_cub_filelist.py)]
-[[download](https://data.caltech.edu/records/65de6-vp158)]
-
-
-
-### Cars
-
-[[paper](http://vision.stanford.edu/pdf/3drr13.pdf)]
-[[code]()]
-[[splits](https://github.com/hytseng0509/CrossDomainFewShot/blob/master/filelists/cars/write_cars_filelist.py)]
-[[download](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)]
-
-
-
-### Places (Places365-Standard)
-
-[[paper](http://places2.csail.mit.edu/PAMI_places.pdf)]
-[[code](http://places2.csail.mit.edu/)]
-[[splits](https://github.com/hytseng0509/CrossDomainFewShot/blob/master/filelists/places/write_places_filelist.py)]
-[[download1](http://places2.csail.mit.edu/download-private.html)]
-[[download2](http://data.csail.mit.edu/places/places365/places365standard_easyformat.tar)]
-
-
-
-### Plantae (iNat2017)
-
-[[paper](https://arxiv.org/abs/1707.06642)]
-[[code](https://github.com/visipedia/inat_comp)]
-[[splits](https://github.com/hytseng0509/CrossDomainFewShot/blob/master/filelists/plantae/write_plantae_filelist.py)]
-[[download1](https://github.com/visipedia/inat_comp/tree/master/2017)]
-[[download2](https://ml-inat-competition-datasets.s3.amazonaws.com/2017/train_val_images.tar.gz)]
-
-
-
-### Plant Disease (CropDiseases, PlantVillage)
+### PlantVillage
+The PlantVillage dataset consists of 54,306 images of plant leaves from 14 crop species with a spread of 38 classes (including 26 diseases and 12 healthy).
+The dataset provides three different versions of the images, i.e., colored images, gray-scaled images and segmented images.
+All images in the colored version, **i.e., 54,305 images of 38 classes**, are used for cross-domain few-shot learning.
 
 [[paper](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)]
 [[code](https://github.com/digitalepidemiologylab/plantvillage_deeplearning_paper_analysis)]
@@ -96,6 +65,9 @@ The standard splits include 64 classes for training, 16 classes for validation, 
 
 
 ### EuroSAT
+The EuroSAT dataset is based on Sentinel-2 satellite images covering 13 spectral bands and consisting out of 10 classes with in total 27,000 labeled and geo-referenced images.
+The Sentinel-2 satellite images are openly and freely accessible provided in the Earth observation program Copernicus.
+All colored images, **i.e., 27,000 images of 10 classes**, are used for cross-domain few-shot learning.
 
 [[paper](https://arxiv.org/abs/1709.00029)]
 [[code](https://github.com/phelber/EuroSAT)]
@@ -105,6 +77,8 @@ The standard splits include 64 classes for training, 16 classes for validation, 
 
 
 ### ISIC-2018
+The HAM10000 (“Human Against Machine with 10000 training images”) dataset consists of 10,015 dermatoscopic images which are released as a training set for academic machine learning purposes and are publicly available through the ISIC (International Skin Imaging Collaboration) archive.
+All 10015 dermatoscopic images, **i.e., 10,015 images of 7 classes**, are used for cross-domain few-shot learning.
 
 [[paper1](https://www.nature.com/articles/sdata2018161)]
 [[paper2](https://arxiv.org/abs/1902.03368)]
@@ -115,6 +89,9 @@ The standard splits include 64 classes for training, 16 classes for validation, 
 
 
 ### ChestX-ray8
+The ChestX-ray8 dataset is a chest X-ray database which comprises 108,948 frontal-view X-ray images of 32,717 unique patients with the text-mined eight disease image labels (where each image can have multi-labels), from the associated radiological reports using natural language processing.
+Seven of the eight classes, **i.e., 25,848 images of 7 classes**, are used for cross-domain few-shot learning and each image has only one label.
+Note that nowadays the ChestX-ray dataset comprises 112,120 frontal-view X-ray images of 30,805 unique patients with the text-mined fourteen disease image labels (where each image can have multi-labels), mined from the associated radiological reports using natural language processing.
 
 [[paper](https://arxiv.org/abs/1705.02315)]
 [[code](https://www.cc.nih.gov/drd/summers.html)]
