@@ -76,7 +76,7 @@ All colored images, **i.e., 27,000 images of 10 classes**, are used for cross-do
 
 
 
-### ISIC-2018
+### ISIC2018
 The HAM10000 (“Human Against Machine with 10000 training images”) dataset consists of 10,015 dermatoscopic images which are released as a training set for academic machine learning purposes and are publicly available through the ISIC (International Skin Imaging Collaboration) archive.
 All 10015 dermatoscopic images, **i.e., 10,015 images of 7 classes**, are used for cross-domain few-shot learning.
 
